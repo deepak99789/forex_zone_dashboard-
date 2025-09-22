@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+tradingview_ta
+python-telegram-bot==20.3
+playsound
